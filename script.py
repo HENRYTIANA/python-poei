@@ -1,6 +1,6 @@
 import random
 
-a = 10
+a = 200
 b = 5
 print(a + b)
 
